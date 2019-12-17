@@ -1,7 +1,7 @@
 # gitWorkshop
 
 zmenaaaa
-a
+aaaa
 b
 c
 d
