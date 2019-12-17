@@ -1,9 +1,9 @@
 # gitWorkshop
 
 zmenaaaa
-a
+aaaa
 b
 c
 d
-e
+eee
 f
