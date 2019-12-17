@@ -1,7 +1,7 @@
 # gitWorkshop
 
 zmenaaaa
-a
+a úprava ke konfliktu
 b
 c
 d
