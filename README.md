@@ -5,5 +5,5 @@ a úprava ke konfliktu
 b
 c
 d
-eee
+DUCKS ARE GONNA TAKE OVER THE WORLD!
 f
