@@ -1,9 +1,9 @@
 # gitWorkshop
 
 zmenaaaa
-a úprava ke konfliktu
+a
 b
 c
 d
-DUCKS ARE GONNA TAKE OVER THE WORLD!
+e
 f
