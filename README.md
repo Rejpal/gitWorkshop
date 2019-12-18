@@ -1,7 +1,7 @@
 # gitWorkshop
 
 zmenaaaa
-a úprava ke konfliktu s plavčíkem
+a úprava ke konfliktu s plavčíkem 2
 b
 c
 d
